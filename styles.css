@@ -1,0 +1,1426 @@
+* {
+    margin: 0;
+}
+
+
+
+
+/*(((((((((((((((((((((PORTADA))))))))))))))))))))*/
+
+
+
+
+/*--------------------Navegación-------------------*/
+
+/*Porpiedades imagen de la portada*/
+.ajusteImagenPortada {
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+/*Ajuste a del Logo*/
+.ajusteALogo {
+    width: 80%;
+}
+
+/*Ajuste Logo*/
+.ajusteLogo {
+    width: 50%;
+}
+
+/*Conertir bloque a linea */
+.inline {
+    display: inline;
+}
+
+/*Convertir a inline-block*/
+.inlineBlock {
+    display: inline-block;
+}
+
+/*Convertir al header en flex*/
+.flexOverFlow {
+    display: flex;
+    align-items: center;
+    overflow: hidden;
+}
+
+/*Propiedad para la letra de la barra de navegacion*/
+.letraNav {
+    color: #ffffff;
+    font-size: 200%;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: underline;
+    text-decoration-color: #ffffff;
+}
+
+/*Ajuste y sombra Letra del Nav*/
+.ajusteLetra {
+    padding-right: 3%;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+/*Propiedad buscador*/
+.ajusteSearch {
+    border: none;
+    box-shadow: none;
+    border-radius: 4px;
+    background-color: #ffffffb6;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-indent: 3%;
+    width: 80%;
+    outline: none;
+}
+
+/*Ajuste carrito de compras*/
+.ajusteCarrito {
+    width: 5%;
+}
+
+/*Ajuste listad de deseos*/
+.ajusteLike {
+    width: 3%;
+}
+
+/*Ajuste Sign In*/
+.ajusteSignIn {
+    width: 25%;
+}
+
+
+
+
+
+
+/*-------------Sección confian en nosotros--------*/
+
+/*Convertir linea en bloque*/
+.block {
+    display: block;
+}
+
+/*Propiedad del Banner*/
+.ajusteConfianza {
+    width: 100%;
+    padding-top: 50%;
+}
+
+
+
+
+/*----------------Futuro Contenido----------------*/
+
+/*Ajuste de imagen del contenido*/
+.ajusteFuture {
+    width: 100%;
+}
+
+
+
+
+/*---------------------Footer----------------------*/
+
+/*Ajuste fondo pié de página*/
+.ajusteFondoPie {
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+/*Lista sin viñetas*/
+.sinViñetas {
+    list-style: none;
+}
+
+/*Logo Facebook*/
+.ajusteFacebook {
+    width: 2%;
+}
+
+/*Logo Instagram*/
+.ajusteInstagram {
+    width: 2%;
+}
+
+/*Logo Youtube*/
+.ajusteYoutube {
+    width: 2%;
+}
+
+/*Ajuste Back to top*/
+.ajusteBackTop {
+    width: 20%;
+}
+
+/*Letra titulos Footer*/
+.titulosFooter {
+    font-family: 'Quicksand', sans-serif;
+    text-shadow: 2px 2px 4px #000000ab;
+    color: #ffffff;
+    font-size: 230%;
+}
+
+/*Letra subtitulos Footer*/
+.subtitulosFooter {
+    font-family: 'Puritan', sans-serif;
+    text-shadow: 2px 2px 4px #000000ab;
+    color: #ffffff;
+    font-size: 150%;
+}
+
+/*Ajustar Footer*/
+.ajustarFooter {
+    padding-top: 5.5%;
+    padding-left: 9%;
+    overflow: hidden;
+}
+
+/*Ajustar copyright*/
+.ajustarCopyright {
+    text-shadow: 2px 2px 4px #000000ab;
+    color: #ffffff;
+    font-size: 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 37%;
+    padding-top: 5%;
+}
+
+
+
+
+/*((((((((((((((((((((((SHOPS)))))))))))))))))))))*/
+
+
+
+
+/*--------------------Navegación-------------------*/
+
+/*Fondo rosa*/
+.backgroundPink {
+    background-color: #FAB2EA;
+}
+
+/*Ajuste del div de navegación*/
+.divNav {
+    background-color: #614344;
+    padding-bottom: 5%;
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+
+/*Ajuste Logo*/
+.ajusteLogo1 {
+    width: 25%;
+}
+
+/*-----------------Lugares de ubicación-----------*/
+
+/*Ajuste Logo Ubicación*/
+.ajusteUbicacion {
+    width: 4%;
+}
+
+/*Letra Ubicaciones*/
+.ajusteLetraUbicacion {
+    font-family: 'Puritan', sans-serif;
+    text-decoration: none;
+    color: #ffffff;
+    text-shadow: 2px 2px 4px #0000006b;
+    font-size: 150%;
+}
+
+/*Ajuste Main*/
+.ajusteMainShops {
+    padding-top: 10%;
+    padding-left: 28%;
+    padding-bottom: 18%;
+}
+
+
+
+
+/*(((((((((((((((((((((MENS)))))))))))))))))))))))*/
+
+
+
+
+/*--------------------Navegacion-------------------*/
+
+/*Ajuste a del Logo*/
+.ajusteALogo1 {
+    width: 63.8%;
+}
+
+/*Ajuste imagen Mens*/
+.ajusteImagenMens {
+    width: 100%;
+}
+
+/*------------------Contenido Mens----------------*/
+
+/*Padding del article de los primeros tres modelos*/
+.paddingFirstModelos {
+    padding-left: 11.8%;
+}
+
+/*Ajustar imagen de los modelos de mens*/
+.ajustarModelosVarones {
+    width: 30%;
+    padding-top: 0.34%;
+}
+
+/*Ajustar Modelo 3*/
+.ajustarModelosVarones3 {
+    width: 24%;
+}
+
+/*Padding del article de los primeros tres modelos*/
+.paddingLastModelos {
+    padding-left: 8%;
+}
+
+
+
+/*(((((((((((((((((((((WOMENS)))))))))))))))))))))*/
+
+
+
+/*-----------------Contenido Womens---------------*/
+
+/*Ajuste a del Logo*/
+.ajusteALogo2 {
+    width: 65.2%;
+}
+
+/*Padding del article first modelos Women*/
+.paddingFirstModelos1 {
+    padding-left: 9.2%;
+}
+
+/*Padding del article last modelos Women*/
+.paddingLastModelos1 {
+    padding-left: 9.2%;
+}
+
+
+
+
+/*(((((((((((((((((((((SIGN IN)))))))))))))))))))))*/
+
+
+
+
+/*--------------------Backgorund--------------------*
+
+/*BackgroundPurple*/
+.backgroundPurple {
+    background-color: #88527f;
+}
+
+/*----------------Conetenido Sign In--------------*/
+
+/*Ajuste Sign In*/
+.ajusteLogoSignIn {
+    width: 12%;
+    padding-left: 45%;
+    padding-top: 6.2%;
+}
+
+/*Ajuste div mail*/
+.ajusteMail {
+    width: 30%;
+    font-family: 'Quicksand', sans-serif;
+    outline: none;
+    border-radius: 10px;
+    border: none;
+    text-indent: 3%;
+}
+
+/*Ajuste div mail*/
+.ajusteDivMail {
+    padding-left: 42%;
+    padding-top: 1.5%;
+}
+
+/*Ajuste div contraseña*/
+.ajusteDivPassword {
+    padding-left: 42%;
+    padding-top: 0.7%;
+}
+
+/*Ajuste boton Sign In*/
+.ajusteBotonSignIn {
+    width: 10%;
+    font-family: 'Quicksand', sans-serif;
+    background-color: #614344;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+/*Ajuste div boton Sign In*/
+.ajusteDivSignIn {
+    padding-left: 48.5%;
+    padding-top: 1.3%;
+}
+
+/*Ajuste div Enlaces*/
+.ajusteEnlaces {
+    padding-left: 41.45%;
+    padding-top: 1.5%;
+}
+
+/*Propiedades A de los enlaces*/
+.propiedadesAEnlaces {
+    color: #ffffff;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-decoration: none;
+}
+
+/*---------------------Footer----------------------*/
+
+/*Ajustar copyright de Sing In*/
+.ajustarCopyright1 {
+    color: #ffffff;
+    font-size: 85%;
+    font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 44.19%;
+    padding-top: 7%;
+}
+
+
+
+
+/*(((((((((((((((Modelo de zapato mens)))))))))))))*/
+
+
+
+
+/*----------------Barra de Navegación Mens---------*/
+
+/*Propiedades y Ajustes de la barra de navegación*/
+.ajusteNav1 {
+    background-color: #614344;
+    width: 100%;
+    height: 65px;
+}
+
+/*Overflow del Nav*/
+.overFlow {
+    overflow: hidden;
+}
+
+/*Propiedades y Ajustes del Logo*/
+.ajusteSayu1 {
+    grid-area: logo;
+    width: 60px;
+    padding-left: 15px;
+}
+
+/*Propiedades y Ajustes Mens*/
+.ajusteMens1 {
+    grid-area: mens;
+    padding-top: 20px;
+}
+
+/*Propiedades y Ajustes Womens*/
+.ajusteWomens1 {
+    grid-area: womens;
+    padding-top: 20px;
+}
+
+/*Propiedades y Ajustes Shops*/
+.ajusteShops1 {
+    grid-area: shops;
+    padding-top: 20px;
+}
+
+/*Propiedades y Ajustes del Div del buscador*/
+.ajusteDivBuscar {
+    grid-area: buscar;
+    padding-top: 20px;
+}
+
+/*Propiedades y Ajustes buscar*/
+.ajusteBuscar1 {
+    width: 90%;
+    border: none;
+    box-shadow: none;
+    border-radius: 4px;
+    background-color: #ffffffb6;
+    font-family: 'Roboto Condensed', sans-serif;
+    text-indent: 3%;
+    outline: none;
+}
+
+/*Propiedades y Ajustes carrito*/
+.ajusteCarrito1 {
+    grid-area: carrito;
+    width: 45px;
+    padding-top: 18px;
+}
+
+/*Propiedades y Ajustes like*/
+.ajusteLike1 {
+    grid-area: like;
+    width: 30px;
+    padding-top: 15px;
+}
+
+/*Propiedades y Ajustes Sign In*/
+.ajusteSignIn1 {
+    grid-area: signin;
+    width: 48%;
+    padding-top: 18px;
+}
+
+/*Display:none*/
+.displayNoneMenu {
+    display: none;
+}
+
+/*Ajuste del menú hamburguesa*/
+.ajusteMenu {
+    width: 8%;
+    padding-top: 20px;
+    padding-left: 80%;
+}
+
+/*Dispaly a la Barra de Navegación*/
+.displayNoneNav {
+    display: none;
+}
+
+.gridNav {
+    display: grid;
+    grid-template-columns: 19% 12% 12% 7% 26% 8% 8% 8%;
+    grid-template-rows: 65px;
+
+    grid-template-areas:
+        "logo mens womens shops buscar carrito like signin"
+    ;
+}
+
+/*Propiedad de la nueva letra Nav para el producto*/
+.letraNav1 {
+    color: #ffffff;
+    font-size: 130%;
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: underline;
+    text-decoration-color: #ffffff;
+}
+
+/*--------------------Producto---------------------*/
+
+/*Ajuste de la Imagen del Producto Mens*/
+.imagenProductoMens {
+    width: 100%;
+}
+
+/*Aplicando Grid a la imagen*/
+.gridImg1 {
+    grid-area: img1;
+}
+
+/*Aplicando grid a Nike Air Force*/
+.gridT {
+    grid-area: t;
+}
+
+/*Aplicando grid Tallas*/
+.gridSize {
+    grid-area: size;
+}
+
+/*Aplicando grid a la listad e opciones*/
+.gridListOption {
+    grid-area: des;
+}
+
+/*Aplicando grid al costo*/
+.gridCost {
+    grid-area: cost;
+}
+
+/*Aplicando grid al Parrafo*/
+.gridP {
+    grid-area: p;
+}
+
+/*Aplicando grid a la cantidad*/
+.gridCant {
+    grid-area: cant;
+}
+
+/*Aplicando grid al numero*/
+.gridNum {
+    grid-area: num;
+}
+
+/*Aplicando grid al boton*/
+.gridBt {
+    grid-area: bt;
+}
+
+/*Grillas para el producto*/
+.gridProductoMen {
+    display: grid;
+    grid-template-columns: 35% 4% 13.25% 12.25% 25% 10.5%;
+
+    grid-template-rows: 32% min-content min-content min-content min-content min-content;
+
+    grid-template-areas:
+        "img1 . . . . ."
+        "img1 t t t t t"
+        "img1 size size des cost cost"
+        "img1 p p p p p"
+        "img1 cant cant num bt bt"
+        "img1 . . . . ."
+    ;
+    padding-top: 4%;
+    padding-left: 8%;
+}
+
+/*Aplicando Flex hacia el final*/
+.divEnd {
+    display: flex;
+    justify-content: end;
+}
+
+/*Ajuste Parrafo*/
+.ajusteParrafo {
+    padding-right: 20%;
+    padding-left: 20%;
+}
+
+
+/*Aplicando propiedades de Nike Air Force*/
+.ajusteNike {
+    padding-right: 20%;
+    font-family: 'Anton', sans-serif;
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #000000ab;
+    font-size: 150%;
+}
+
+/*Aplicando propuedades a la talla*/
+.ajusteTalla {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 140%;
+    text-shadow: 1px 1px 2px #000000ab;
+    color: #ffffff;
+    padding-left: 80%;
+}
+
+/*Aplicando propiedades al deslizable*/
+.ajusteDes {
+    border: none;
+    outline: none;
+    border-radius: 3px;
+}
+
+/*Div del deslizable*/
+.ajusteDivDes {
+    padding-left: 20%;
+}
+
+/*Aplicando propiedades al precio $300*/
+.ajustePrecio {
+    padding-right: 36.5%;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 140%;
+    text-shadow: 1px 1px 2px #000000ab;
+    color: #ffffff;
+}
+
+/*Aplicando propiedades al parrafo*/
+.ajusteP {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 129%;
+}
+
+/*Aplicando propiedades a la Cantidad*/
+.ajusteCantidad {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 140%;
+    text-shadow: 1px 1px 2px #000000ab;
+    color: #ffffff;
+    padding-left: 80%;
+}
+
+/*Ajuste div de la Barra number*/
+.ajusteDivNumber {
+    padding-left: 45%;
+}
+
+/*Aplicando propiedades al Num*/
+.ajusteNum {
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    width: 35%;
+}
+
+/*Aplicando propiedades bt*/
+.ajusteBt {
+    border-radius: 3px;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 100%;
+    border: none;
+}
+
+.ajusteBt:hover {
+    background-color: #00000031;
+    color: #ffffff;
+}
+
+/*Alipancando propiedades al form de Bt*/
+.ajusteDivBt {
+    padding-left: 45%;
+}
+
+/*------------------Otro Productos-----------------*/
+
+/*Ajuste del contenedor article del interés*/
+.ajusteSection {
+    padding-top: 5%;
+    padding-left: 10%;
+    font-size: 150%;
+}
+
+/*Texto de interés*/
+.propiedadesInteres {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #ffffff;
+}
+
+/*Padding al contenedor article*/
+.ajusteArticle {
+    padding-top: 3%;
+    padding-left: 15%;
+    padding-bottom: 10%;
+
+}
+
+/*Padding a los modelos*/
+.paddingModelosMen {
+    padding: 0 1%;
+}
+
+/*Ajuste Modelo 3*/
+.ajusteModelo3 {
+    width: 16%;
+}
+
+/*Ajuste Modelo 4*/
+.ajusteModelo4 {
+    width: 20.1%;
+}
+
+/*Ajustar copyright*/
+.ajustarCopyrightGrid {
+    text-shadow: 2px 2px 4px #000000ab;
+    color: #ffffff;
+    font-size: 100%;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+
+/*-----------------Footer con Grid----------------*/
+
+/*Grilla para el footer*/
+.gridFooter {
+    display: grid;
+    grid-template-columns: 30% 30% 6.25% 6.25% 6.25% 6.25% 15%;
+    grid-template-rows: min-content min-content min-content min-content min-content;
+
+    grid-template-areas:
+        "cus com find find find back back"
+        "listcus listcom fb ig yt back back"
+        "listcus listcom fb ig yt . ."
+        "listcus listcom . . . . ."
+        ". sayu sayu sayu sayu . ."
+    ;
+
+    padding-top: 6%;
+    padding-left: 5%;
+}
+
+/*Grid a Customer Care*/
+.gridCus {
+    grid-area: cus;
+}
+
+/*Grid a Company*/
+.gridCom {
+    grid-area: com;
+}
+
+/*Grid a List del Customer Care*/
+.gridListCus {
+    grid-area: listcus;
+}
+
+/*Grid a List del Company*/
+.gridListCom {
+    grid-area: listcom;
+}
+
+/*Grid a Find Us*/
+.gridFind {
+    grid-area: find;
+    padding-top: 20%;
+}
+
+/*Grid al Facebook*/
+.gridFb {
+    grid-area: fb;
+}
+
+/*Grid al instagram*/
+.gridIg {
+    grid-area: ig;
+}
+
+/*Grid al Youtube*/
+.gridYt {
+    grid-area: yt;
+}
+
+/*Grid al Back to top*/
+.gridBack {
+    grid-area: back;
+}
+
+/*Grid al Sayo Copyright*/
+.gridSayu {
+    grid-area: sayu;
+    padding-top: 10%;
+    padding-left: 25%;
+}
+
+/*Logo Facebook*/
+.ajusteFacebookGrid {
+    width: 50%;
+}
+
+/*Logo Instagram*/
+.ajusteInstagramGrid {
+    width: 50%;
+}
+
+/*Logo Youtube*/
+.ajusteYoutubeGrid {
+    width: 50%;
+    padding-top: 5%;
+}
+
+/*Ajuste Back to top*/
+.ajusteBackTopGrid {
+    width: 100%;
+}
+
+/*====================Media Queries===============*/
+
+/*-------------------Para desktop-----------------*/
+@media screen and (max-width: 1090px) {
+
+    /*Barra navegación*/
+    .gridNav {
+        display: grid;
+        grid-template-columns: 19% 10% 12% 9% 26% 8% 8% 8%;
+        grid-template-rows: 65px;
+
+        grid-template-areas:
+            "logo mens womens shops buscar carrito like signin"
+        ;
+    }
+
+    /*Propiedades y Ajustes Sign In*/
+    .ajusteSignIn1 {
+        grid-area: signin;
+        width: 65%;
+        padding-top: 18px;
+    }
+
+    /*Aplicando propiedades de Nike Air Force*/
+    .ajusteNike {
+        padding-right: 10%;
+        font-family: 'Anton', sans-serif;
+        color: #ffffff;
+        text-shadow: 1px 1px 2px #000000ab;
+        font-size: 150%;
+    }
+
+    /*Ajuste Parrafo*/
+    .ajusteParrafo {
+        padding-right: 10%;
+        padding-left: 10%;
+    }
+
+    /*Alipancando propiedades al form de Bt*/
+    .ajusteDivBt {
+        display: flex;
+        justify-content: center;
+        padding-left: 0;
+    }
+
+    /*Ajuste talla*/
+    .ajusteTalla {
+        padding-left: 18%;
+    }
+
+    /*Ajuste Div del Deslizable*/
+    .ajusteDivDes {
+        padding-left: 0;
+    }
+
+    /*Ajuste de la Cantidad*/
+    .ajusteCantidad {
+        padding-left: 0;
+    }
+
+    /*Ajuste Div del numero, de la cantidad a llevar*/
+    .ajusteDivNumber {
+        padding-left: 0;
+    }
+
+    /*Ajuste Cost*/
+    .ajustePrecio {
+        padding-right: 50%;
+    }
+
+    /*Ajustando el grid del Producto Men*/
+    .gridProductoMen {
+        display: grid;
+        grid-template-columns: 35% 12% 10% 14% 10% 12% 7%;
+
+        grid-template-rows: 32% min-content min-content;
+
+        grid-template-areas:
+            "img1 t t t t t t"
+            "img1 p p p p p p"
+            "bt size des cant num cost cost"
+        ;
+        padding-top: 4%;
+        padding-left: 8%;
+    }
+
+    /*-------------------Footer---------------------*/
+
+    /*Letra titulos Footer*/
+    .titulosFooter {
+        font-size: 100%;
+    }
+
+    /*Quitar padding al ul del Company*/
+    .gridListCom {
+        padding-inline-start: 0;
+    }
+
+    /*Quitar padding al ul del Customer Care*/
+    .gridListCus {
+        padding-inline-start: 0;
+    }
+
+    /*Letra subtitulos Footer*/
+    .subtitulosFooter {
+        font-size: 100%;
+    }
+
+    /*Grid al Sayo Copyright*/
+    .gridSayu {
+        font-size: 70%;
+        padding-top: 3%;
+        padding-left: 14%;
+    }
+
+    /*Ajuste del contenedor article del interés*/
+    .ajusteSection {
+        padding-top: 10%;
+    }
+
+    /*Grilla para el footer*/
+    .gridFooter {
+        padding-top: 4%;
+    }
+
+}
+
+/*********************Para tablet******************/
+@media screen and (max-width: 693px) {
+
+    /*----------------Barra de Navegación-------------*/
+
+    /*Display:none*/
+    .displayNone {
+        display: none;
+    }
+
+    /*Grid area para el nav*/
+    .gridAreaNav {
+        grid-area: menu;
+    }
+
+    /*Para que aparezca el menu hamburguesa*/
+    .displayNoneMenu {
+        display: block;
+    }
+
+    /*Grid Menu*/
+    .gridMenu {
+        display: block;
+    }
+
+    /*Grilla nueva para la barra de navegacion*/
+    .gridNav {
+        display: grid;
+        grid-template-columns: 80% 20%;
+        grid-template-rows: 65px;
+
+        grid-template-areas:
+            "logo menu"
+        ;
+    }
+
+    /*Propiedad de la nueva letra Nav para el producto*/
+    .letraNavGrid {
+        color: #ffffff;
+        font-size: 120%;
+        font-family: 'Ubuntu', sans-serif;
+        text-decoration: none;
+    }
+
+    /*Propiedad del Buscar despegable*/
+    .ajusteBuscarGrid {
+        grid-area: buscar1;
+        width: 30%;
+        border: none;
+        box-shadow: none;
+        border-radius: 4px;
+        background-color: #ffffffb6;
+        font-family: 'Roboto Condensed', sans-serif;
+        text-indent: 3%;
+        outline: none;
+    }
+
+    /*Ajuste Imagen Sig in*/
+    .ajusteImgGrid {
+        width: 10%;
+    }
+
+    /*Propiedad del Like despegable*/
+    .ajusteLikeGrid {
+        grid-area: like1;
+        width: 8%;
+    }
+
+    /*Propiedad del carrito despegable*/
+    .ajusteCarritoGrid {
+        grid-area: carrito1;
+        width: 10%;
+    }
+
+    /*Ajusatr Li del menu*/
+    .ajustarLiMenu {
+        position: absolute;
+    }
+
+    .trigger:hover>.displayNoneNav {
+        background-color: #61434459;
+        display: flex;
+        position: absolute;
+        z-index: 1;
+        flex-direction: column;
+    }
+
+    /*Ajuste Para el niKE*/
+    .ajusteNike {
+        display: flex;
+        justify-content: center;
+        padding-right: 0;
+    }
+
+    /*Ajustar Imagen en el grid para tablet*/
+    .gridImg1 {
+        padding-top: 8%;
+    }
+
+    /*Ajustar el div del bt en el modelo para tablet*/
+    .ajusteDivBt {
+        justify-content: flex-start;
+        padding-left: 8%;
+    }
+
+    /*Ajustar la letra talla al modelo para tablet*/
+    .ajusteTalla {
+        padding-left: 33%;
+    }
+
+    /*Ajustar el deslizante al modelo para tablet*/
+    .ajusteDivDes {
+        padding-left: 35%;
+    }
+
+    /*Ajustar la letra Cantidad al modelo para tablet*/
+    .ajusteCantidad {
+        padding-left: 16%;
+    }
+
+    /*--------------modelo del producto-----------*/
+
+    /*Ajustando el grid del Producto Men*/
+    .gridProductoMen {
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20% 20%;
+
+        grid-template-rows: min-content 60% min-content min-content min-content;
+
+        grid-template-areas:
+            "t t t t t"
+            "img1 img1 img1 img1 img1"
+            "bt bt bt bt cost"
+            "size des cant cant num"
+            "p p p p p"
+        ;
+        padding-top: 0;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+    /*------------------Interes-----------------*/
+    /*Ajuste del contenedor article del interés*/
+    .ajusteSection {
+        padding-top: 30%;
+        padding-left: 10%;
+        font-size: 150%;
+    }
+
+    /*------------------Footer------------------*/
+
+    /*Oculatar lista de Customer Care*/
+    .gridListCus {
+        display: none;
+    }
+
+    /*Oculatar lista de Company*/
+    .gridListCom {
+        display: none;
+    }
+
+    /*Porpiedades de los titulos del Footer*/
+    .titulosFooter {
+        font-size: 60%;
+    }
+
+    /*Grid a Find Us*/
+    .gridFind {
+        padding-top: 0;
+    }
+
+    /*Grid a Cus*/
+    .gridCus {
+        display: flex;
+        align-items: flex-end;
+    }
+
+    /*Logo Facebook*/
+    .ajusteFacebookGrid {
+        width: 50%;
+    }
+
+    /*Logo Instagram*/
+    .ajusteInstagramGrid {
+        width: 50%;
+    }
+
+    /*Logo Youtube*/
+    .ajusteYoutubeGrid {
+        width: 15%;
+        padding-top: 5%;
+    }
+
+    /*Ajuste Back to top*/
+    .ajusteBackTopGrid {
+        width: 200%;
+    }
+
+    /*Grilla para el footer*/
+    .gridFooter {
+        display: grid;
+        grid-template-columns: 49% 10% 10% 31%;
+        grid-template-rows: min-content min-content min-content min-content min-content;
+
+        grid-template-areas:
+            "cus . back ."
+            "cus . back ."
+            "com . back ."
+            "find fb ig yt"
+            "sayu sayu sayu sayu"
+        ;
+
+        padding-top: 2%;
+        padding-left: 18%;
+    }
+
+}
+
+/********************Para phone********************/
+
+@media screen and (max-width: 300px) {
+
+    /*---------Modelo de la zapatilla men---------*/
+
+    /*Aplicando propuedades a la talla*/
+    .ajusteTalla {
+        padding-left: 6%;
+    }
+
+    /*Aplicando propiedades a la Cantidad*/
+    .ajusteCantidad {
+        padding-left: 5%;
+    }
+
+    /*Ajuste div de la Barra number*/
+    .ajusteDivNumber {
+        padding-left: 36%;
+    }
+
+    /*Aplicando propiedades bt*/
+    .ajusteBt {
+        border-radius: 2px;
+        font-family: 'Roboto Condensed', sans-serif;
+        font-size: 80%;
+        border: none;
+    }
+
+    /*Aplicando propiedades al precio $300*/
+    .ajustePrecio {
+        font-size: 100%;
+        padding-right: 5%
+    }
+
+    /*Aplicando propiedades al parrafo*/
+    .ajusteP {
+        font-size: 100%;
+    }
+
+    /*Modificando el grid*/
+    .gridProductoMen {
+        display: grid;
+        grid-template-columns: 50% 50%;
+        grid-template-rows: min-content min-content min-content min-content min-content min-content;
+        grid-template-areas:
+            "t t"
+            "size des"
+            "cant num"
+            "img1 img1"
+            "bt cost"
+            "p p"
+        ;
+        padding-top: 0;
+        padding-left: 2%;
+        padding-right: 2%;
+    }
+
+    /*---------------Otros Productos--------------*/
+
+    /*Ajuste del contenedor article del interés*/
+    .ajusteSection {
+        padding-top: 8%;
+        padding-left: 7%;
+        font-size: 80%;
+    }
+
+    /*Flex a colum*/
+    .flexOverFlow {
+        display: flex;
+        flex-direction: column;
+    }
+
+    /*Ajuste Modelo3*/
+    .ajusteModelo3 {
+        width: 90%;
+        padding-bottom: 10%;
+    }
+
+    /*Ajuste Modelo4*/
+    .ajusteModelo4 {
+        width: 90%;
+        padding-bottom: 10%;
+    }
+
+    /*Ajuste del article*/
+    .ajusteArticle {
+        padding-top: 10%;
+        padding-left: 2%;
+        padding-bottom: 0%;
+    }
+
+    /*-------------------Footer-------------------*/
+
+    /*Oculatar Customer Care*/
+    .gridCus {
+        display: none;
+    }
+
+    /*Oculatar Company*/
+    .gridCom {
+        display: none;
+    }
+
+    /*Oculatar Find Us*/
+    .gridFind {
+        display: none;
+    }
+
+    /*Ajuste Logo del Youtube Grid para el Footer*/
+    .ajusteYoutubeGrid {
+        width: 25%;
+        padding-top: 5%;  
+    }
+
+    /*Ajuste Logo del FB Grid para el Footer*/
+    .ajusteFacebookGrid {
+        width: 20%;
+        padding-left: 70%;
+    }
+
+    /*Ajuste Logo del Ig Grid para el Footer*/
+    .ajusteInstagramGrid {
+        width: 20%;
+        padding-left: 35%;
+    }
+
+    /*Ajustar copyright*/
+    .ajustarCopyrightGrid {
+        font-size: 35%;
+        padding-left: 23%;
+    }
+
+    /*Ajustar Back to top*/
+    .ajusteBackTopGrid {
+        width: 100%;
+    }
+
+    /*Grilla para el footer*/
+    .gridFooter {
+        display: grid;
+        grid-template-columns: 25% 25% 25% 25%;
+        grid-template-rows: 40% min-content;
+
+        grid-template-areas:
+            "fb ig yt back"
+            "sayu sayu sayu sayu"
+        ;
+
+        padding-top: 0%;
+        padding-left: 0%;
+    }
+}
+
+
+
+
+
+
+/*((((((((((((((((((((ShoeWomen)))))))))))))))))))*/
+
+/*Color de Fondo a la barra de navegación*/
+.navBootstrap {
+    background-color: #614344;
+}
+
+/*Color de texto*/
+.textColor {
+    color: #ffffff;
+}
+
+/*Bajar un poco los íconos de la nav*/
+.paddingIcons {
+    padding-top: 2%;
+}
+
+
+/*----------------------Producto------------------*/
+
+
+/*Padding al Div que contiende el producto*/
+.paddingDivBootstrap {
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
+
+/*Aplicando propiedades de Chuck 70 Color*/
+.ajusteChuck {
+    font-family: 'Anton', sans-serif;
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #000000ab;
+    font-size: 350%;
+}
+
+/*Aplicando propuedades a la talla*/
+.ajusteTallaBootstrap {
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 1px 1px 2px #000000ab;
+    color: #ffffff;
+}
+
+/*Aplicando propiedades al precio $300*/
+.ajustePrecioBootstrap {
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 1px 1px 2px #000000ab;
+    color: #ffffff;
+    font-size: 150%;
+}
+
+/*Ajuste a la letra del Parrafo*/
+.ajustePBootstrap {
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+/*Aplicando propiedades a la Cantidad*/
+.ajusteCantidadBootstrap {
+    font-family: 'Ubuntu', sans-serif;
+    text-shadow: 1px 1px 2px #000000ab;
+    color: #ffffff;
+}
+
+
+/*-----------------Sección interés----------------*/
+
+/*Texto de interés*/
+.propiedadesInteresBootstrap {
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #000000ab;
+    padding-left: 5%;
+    padding-bottom: 1%;
+}
+
+/*padding de los modelos de interés*/
+.paddingInteres {
+    padding-top: 2%;
+    padding-bottom: 30%;
+}
+
+
+/*----------------------Footer--------------------*/
+
+/*Color al footer*/
+.backgroundFooter {
+    background-image: url(./assets/pie_pagina_morado.png);
+}
+
+/*Color de letra white*/
+.textWhite {
+    color: #ffffff;
+    text-shadow: 1px 1px 2px #000000ab;
+}
+
+/*Ajuste Back to top*/
+.ajusteBackTopBootstrap {
+    width: 100%;
+}
